@@ -1,3 +1,18 @@
 .cool {
     background-color: lightpink;
+    font-family: "Verdana", sans-serif;
+}
+
+#element-two {
+    color: blue;
+    font-size: 36px;
+}
+
+.twenty-four {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-weight: bold;
 }
